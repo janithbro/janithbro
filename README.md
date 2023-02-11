@@ -1,5 +1,18 @@
-### Hi there 👋
+### Hi , I'm janith jayasanka 👋
 
+Software Engineer
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning - Internet Technologies
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 👨‍💻 All of my projects are available at - https://github.com/janithbro/MyProfile
+- 💬 Ask me about - JAVA , HTML , JS
+- 📫 How to reach me - janithjayasanka1000@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 <!--
 **janithbro/janithbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
